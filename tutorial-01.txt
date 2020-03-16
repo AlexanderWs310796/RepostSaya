@@ -1,7 +1,0 @@
-test project
-<<<<<<< HEAD
-hello world
-test project 2
-=======
-hello world
->>>>>>> 5bc8ee600b3f83f496f479d15ce07255df8a6dbf
